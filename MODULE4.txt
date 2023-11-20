@@ -1,0 +1,81 @@
+                                             
+Q.1  What is OOP? List OOP concepts.
+     
+Ans.-->OOPS stands for Object Oriented Programming language,the main purpose of oop is to deal with real-                    
+       world entity using programming language.
+       The main aim of oop is bind together the data and the function that operate on 
+       them,so that no other part of code can access this data except that function. 
+
+  There are some basic concept of oops-->
+          
+  1.Object:-->Smallest entity of program is called object.In other words, an object can be defined as an that           
+              has a state and behaviour or anything that exists physically in the world is called object.
+               e.g.- person, dog, table,city,chair,name etc.
+
+
+  2. Class:-->Storing the object's property(data member) and its behaviour is called class.It is basically a 
+              collection of objects.
+              e.g.- assume fruits is a class and it collects the object like banana,grapes, orange etc.
+
+  3. Inheritance:--> When one class access the property of another class is called inheritance.Or we can say
+                     it is process in which two classes have relationship among each other.
+                     e.g.- Class vehicle is the parent class and class bus,car bike etc. are the child 
+                              classes.
+                     
+                      There are 5 types of inheritance-
+                       a) Single inheritance
+                       b) Mutilevel inheritance
+                       c) Mutiple inheritance
+                       d) Herarchical inheritance
+                       e) Hybrid inheritance
+
+   4.Polymorphism:--> When one task is performed by different ways are called polymorphism.
+                      e.g.- shapes is one task but we can perform it  in many ways circle,rectangle,triangle 
+                       etc.
+                      There are 2 types of polymorphism-
+
+                              1. Compile time polymorphism-
+                                   a)function overloading
+                                   b)operator overloading
+
+                              2. Run time polymorphism-
+                                   virtual function
+
+   5.Encapsulation:--> Binding(or wrapping) data and functions together into a single unit is known as 
+                       encapsulation.It can be achieved by making the data member's scope private and
+                       the member function's scope publis to access these data members.
+
+
+  6. Abstraction:-->  It helps in the data-hiding process. It also helps in displaying the essential features
+                       without showing the details or the functionality to the user.It avoids unnecessary 
+                       information and show only that specific part that the user wants to see.
+
+
+
+Q.3)  Difference between oop and pops?
+         
+                     OOPS                                       POPS                                       
+          
+   1.  OOP refers to Object Oriented Programming. |  1. POP refers to the Procedural Oriented Programming.
+
+   2.  OOP deals with object and their properties |  2.  POP deals with programs and functions.
+
+   3.  It is highly secured.                      |  3.  It is less secure.
+                       
+   4.  It follows bottom-up approach.             |  4.  It follows top-down approach.
+
+   5.  It takes more memory than pops.            |  5.  It takes very less memory.
+
+   6.  It have access specifier like public,      |  6.  There is no any accesss specifier.
+        private,protected.                       
+                                           
+   7.  In oops overlaoding is possible.           |  7. In pop we can't perform overloading.                                
+                                               
+   8.  Data hiding is possible.                   |  8. Data hiding is not possible.
+
+   9. Program is divided ino small parts called   |  9.Program is divided into small parts
+       object.                                       called function.
+ 
+   10. Example of oops->                          |  10. Example of pops->
+                    c++,Java,Python etc.                        C, FORTRAN,COBOL etc. 
+                                                   
